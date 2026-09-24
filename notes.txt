@@ -7,3 +7,6 @@ feature-B
 new1
 new2
 new3
+
+Feature 
+x-- create branch c 
